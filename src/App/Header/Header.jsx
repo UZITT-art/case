@@ -11,12 +11,9 @@ const Header = () => {
   return (
     <>
       {/* Header Section */}
-      <div className="w-full h-12 bg-white shadow-lg opacity-1 sticky top-0 z-50 flex justify-between items-center px-4 md:px-0 ">
+      <div className="w-full h-12 bg-gray-50 shadow-lg opacity-1 sticky top-0 z-50 flex justify-between items-center px-4 md:px-0 ">
         <div className="flex-grow">
-          <button
-            onClick={toggleDrawer}
-            className="md:hidden p-2  text-white rounded"
-          >
+          <button onClick={toggleDrawer} className="md:hidden p-2  text-black">
             <CiMenuBurger />
           </button>
         </div>
