@@ -4,7 +4,7 @@ import GR1 from "../../../assets/GR1.jpg";
 import Cc from "../../../assets/Cc1.jpg";
 import ve2 from "../../../assets/ve2.jpg";
 import ve4 from "../../../assets/ve4.jpg";
-import ve3 from "@/assets/ve3.jpg";
+
 export const projects = [
   {
     title: "Graphic Design",
@@ -92,7 +92,7 @@ export const projects = [
         image: ve2,
       },
       {
-        image: ve3,
+        image: GR1,
       },
       {
         image: ve4,
@@ -131,7 +131,7 @@ export const projects = [
         image: ve2,
       },
       {
-        image: ve3,
+        image: GR1,
       },
       {
         image: ve4,
