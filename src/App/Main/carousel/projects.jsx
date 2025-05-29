@@ -3,8 +3,8 @@ import PA1 from "../../../assets/PA1.jpg";
 import GR1 from "../../../assets/GR1.jpg";
 import Cc from "../../../assets/Cc1.jpg";
 import ve2 from "../../../assets/ve2.jpg";
-import ve3 from "../../../assets/ve3.jpg";
 import ve4 from "../../../assets/ve4.jpg";
+import ve3 from "@/assets/ve3.jpg";
 export const projects = [
   {
     title: "Graphic Design",
